@@ -1,2 +1,4 @@
 # amit-demo
-this is my first repo
+This is my first repo.
+Author - Amit
+It will be fun.
