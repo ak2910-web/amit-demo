@@ -1,6 +1,6 @@
 # amit-demo
 This is my first repo.
-<br>
+<br><hr>
 Author - Amit
-<br>
+<br><hr>
 It will be fun.
